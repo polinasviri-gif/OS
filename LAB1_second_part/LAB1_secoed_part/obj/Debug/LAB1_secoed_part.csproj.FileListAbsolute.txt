@@ -1,0 +1,10 @@
+D:\=учеба\ОС\LAB1_secoed_part\bin\Debug\LAB1_secoed_part.exe.config
+D:\=учеба\ОС\LAB1_secoed_part\bin\Debug\LAB1_secoed_part.exe
+D:\=учеба\ОС\LAB1_secoed_part\bin\Debug\LAB1_secoed_part.pdb
+D:\=учеба\ОС\LAB1_secoed_part\obj\Debug\LAB1_secoed_part.csproj.AssemblyReference.cache
+D:\=учеба\ОС\LAB1_secoed_part\obj\Debug\LAB1_secoed_part.Form1.resources
+D:\=учеба\ОС\LAB1_secoed_part\obj\Debug\LAB1_secoed_part.Properties.Resources.resources
+D:\=учеба\ОС\LAB1_secoed_part\obj\Debug\LAB1_secoed_part.csproj.GenerateResource.cache
+D:\=учеба\ОС\LAB1_secoed_part\obj\Debug\LAB1_secoed_part.csproj.CoreCompileInputs.cache
+D:\=учеба\ОС\LAB1_secoed_part\obj\Debug\LAB1_secoed_part.exe
+D:\=учеба\ОС\LAB1_secoed_part\obj\Debug\LAB1_secoed_part.pdb
